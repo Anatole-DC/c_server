@@ -4,7 +4,7 @@
 
 **author :** Anatole de Chauveron
 
-**version :** 1.0.0
+**version :** 1.0.1
 
 **copyrights :** All rights reserved
 
