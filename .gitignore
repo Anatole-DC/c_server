@@ -1,0 +1,9 @@
+# Ignore specials files
+
+*.o
+*.exe
+*.stackdump
+
+# Ignore .vscode repository
+
+.vscode/
