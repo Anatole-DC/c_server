@@ -34,6 +34,12 @@ Nothing should appear as the server is waiting for a connection.
 
 Now you need to use the client script to connect to the server. You can either use the script on the same machine as the server, or use a different machine, in which case, you will need to get the IP address of the machine on which the server is running.
 
+**WARNING ! The client script needs is own executable file, therefore, you need to compile it yourself (use command bellow) !**
+
+```bash
+gcc -o client.exe client.c
+```
+
 The client script is used as such :
 
 ```bash
